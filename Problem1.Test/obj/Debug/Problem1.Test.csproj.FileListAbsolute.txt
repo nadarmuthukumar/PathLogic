@@ -1,0 +1,8 @@
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\obj\Debug\Problem1.Test.csprojResolveAssemblyReference.cache
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\bin\Debug\Problem1.Test.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\bin\Debug\Problem1.Test.pdb
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\bin\Debug\Problem1.Logic.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\bin\Debug\Problem1.Logic.pdb
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\obj\Debug\Problem1.Test.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Test\obj\Debug\Problem1.Test.pdb

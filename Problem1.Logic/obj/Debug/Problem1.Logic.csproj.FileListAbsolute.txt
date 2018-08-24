@@ -1,0 +1,5 @@
+D:\Source Code\Bridge Test\Problem1\Problem1.Logic\bin\Debug\Problem1.Logic.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Logic\bin\Debug\Problem1.Logic.pdb
+D:\Source Code\Bridge Test\Problem1\Problem1.Logic\obj\Debug\Problem1.Logic.dll
+D:\Source Code\Bridge Test\Problem1\Problem1.Logic\obj\Debug\Problem1.Logic.pdb
+D:\Source Code\Bridge Test\Problem1\Problem1.Logic\obj\Debug\Problem1.Logic.csprojResolveAssemblyReference.cache
